@@ -32,7 +32,7 @@ certbot certonly \
   --logs-dir=log \
   --manual \
   --preferred-challenges=dns \
-  -d www.clintoncurry.net
+  -d www.clintoncurry.net,clintoncurry.net
 ```
 
 At this point I was asked to set a DNS TXT record. I added it, and even though
