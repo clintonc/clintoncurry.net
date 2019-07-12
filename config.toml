@@ -1,0 +1,4 @@
+baseURL = "https://www.clintoncurry.net"
+languageCode = "en-us"
+title = "clintoncurry.net"
+theme = "ananke"
